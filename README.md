@@ -58,13 +58,11 @@ plt.show()
 ```
 
 ## Output
-```
 <img width="1278" height="772" alt="Screenshot 2026-03-25 214534" src="https://github.com/user-attachments/assets/e0e17c55-e689-4f6a-b738-2e93d5446aae" />
 <img width="1087" height="863" alt="Screenshot 2026-03-25 214550" src="https://github.com/user-attachments/assets/b4e9cc6d-92df-4ba3-8a0a-fddd46df628a" />
 
 
 
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
